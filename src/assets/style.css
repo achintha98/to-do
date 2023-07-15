@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.title {
+    
+}
+
+.add-btn {
+    margin: 5%;
+}
